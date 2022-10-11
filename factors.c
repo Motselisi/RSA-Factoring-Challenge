@@ -47,3 +47,4 @@ check_factor $result
 
 done < "$1"
 fi
+
